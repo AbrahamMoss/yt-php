@@ -70,7 +70,7 @@
                 $data['usuario'],
                 $data['password'],
                 $data['rol']
-            )
+            );
         }
 
         public function update(Usuario $usuario) {
